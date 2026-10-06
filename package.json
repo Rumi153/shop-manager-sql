@@ -1,0 +1,6 @@
+{
+  "name": "shop-manager-sql",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": { "@netlify/database": "latest" }
+}
